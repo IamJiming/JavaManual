@@ -1,4 +1,4 @@
-<h1 align="center">Java 基础</h1>
+<h1 align="center">MySQL 面试精选（2021版）</h1>
 <p align="center">
 <p align="center">
   <a href="https://img-blog.csdnimg.cn/20201222174505289.jpg" target="_blank"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
