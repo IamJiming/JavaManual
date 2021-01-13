@@ -1,4 +1,4 @@
-<h1 align="center">Java Interviewer</h1>
+<h1 align="center">Java Manual</h1>
 <p align="center">
 <p align="center">
   <a href="https://img-blog.csdnimg.cn/20201222174505289.jpg" target="_blank"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
